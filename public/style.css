@@ -66,6 +66,37 @@ s2{
     min-height: 20em;
 }
 
+.intro-wrapper {
+    color: var(--secondaryColor);
+    border: 1px solid var(--borderColor);
+    box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+-webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+
+display: grid;
+grid-template-columns: 1fr 1fr;
+grid-template-rows: 3em 30em;
+grid-template-areas: 
+       'nav-wrapper nav-wrapper'
+       'left-column right-column'
+       
+       
+       ;
+}
+
+.nav-wrapper {
+    grid-area:nav-wrapper;
+   
+}
+
+.left-column {
+    grid-area:left-column;
+}
+
+.right-column {
+    grid-area:right-column;
+}
+
 
 @media screen and (max-width: 1200px){
     main-container {
