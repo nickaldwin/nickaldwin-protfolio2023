@@ -45,7 +45,6 @@ window.PorfolioConfig = {
   contacts: {
     email: 'nicklemoncito0',
     mobileNo: '+639171234567',
-    phoneNo: '+12 345 6789',
     links: [
       {
         name: 'GitHub',
