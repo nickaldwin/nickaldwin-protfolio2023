@@ -1,25 +1,23 @@
 window.PorfolioConfig = {
   name: 'Nick Aldwin',
   jobTitle: 'Full-stack Web Developer',
-  jobDescription: 'What drives me
-to create with code?
-Building and enhancing software to make people's days better is what I do. Passion for learning and improvement has always been part of me.',
+  jobDescription: 'Sit quis in tempor quis. Nisi ex exercitation in irure. Reprehenderit sint aliqua et dolore enim laboris dolore exercitation magna aliqua ex ad.',
   skills: [
     {
       name: 'MongoDb',
-      description: 'i use mongodb to store the users cred to the database .'
+      description: 'i use mongodb for storing / collecting objects to the database.'
     },
     {
       name: 'React',
       description: 'i use react framework for my Frontend projects.'
     },
     {
-      name: 'Node.js/Express/Passport.js',
-      description: 'i use Node.js/Express/Passport for my backend and for authentication.'
+      name: 'Node.js/Express',
+      description: 'i use Node.js/Express for my backend.'
     },
     {
-      name: 'CSS/Scss',
-      description: 'i use Css  to style my frontend  web apps.'
+      name: 'CSS/Scass',
+      description: 'i use Css to style my front end  webaps.'
     }
   ],
   works: [
@@ -37,7 +35,7 @@ Building and enhancing software to make people's days better is what I do. Passi
   hobbies: [
     {
       name: 'CTF - Capture the flag challenges',
-      description: ' Sometimes i hop in to solve some CTF challenges to enhance my critical thinking skills and comandline skills.'
+      description: '.'
     },
     {
       name: 'CodeWars and LeetCode Challanges',
@@ -45,8 +43,9 @@ Building and enhancing software to make people's days better is what I do. Passi
     },
   ],
   contacts: {
-    email: 'nicklemoncito98@gmail.com',
-    mobileNo: '09176376512',
+    email: 'nicklemoncito0',
+    mobileNo: '+639171234567',
+    phoneNo: '+12 345 6789',
     links: [
       {
         name: 'GitHub',
