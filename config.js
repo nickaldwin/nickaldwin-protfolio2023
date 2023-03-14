@@ -2,7 +2,7 @@ window.PorfolioConfig = {
   name: 'Nick Aldwin',
   jobTitle: 'Full-stack Web Developer',
   jobDescription: 'My name is Nick Aldwin D Lemoncito. I’m from Philippines passionate about creating community within the tech space, And a passionate software engineer who will do whatever it takes to find the solution.
-Get in touch to find the next answer together!',
+Get in touch to find the next answer together.',
   skills: [
     {
       name: 'MongoDb',
