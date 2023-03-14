@@ -1,27 +1,28 @@
 window.PorfolioConfig = {
-  name: 'John Doe',
+  name: 'Nick Aldwin',
   jobTitle: 'Full-stack Web Developer',
-  jobDescription: 'Sit quis in tempor quis. Nisi ex exercitation in irure. Reprehenderit sint aliqua et dolore enim laboris dolore exercitation magna aliqua ex ad.',
+  jobDescription: 'What drives me
+to create with code?
+Building and enhancing software to make people's days better is what I do. Passion for learning and improvement has always been part of me.',
   skills: [
     {
-      name: 'JavaScript',
-      description: 'Reprehenderit mollit id ad veniam.'
+      name: 'MongoDb',
+      description: 'i use mongodb to store the users cred to the database .'
     },
     {
-      name: 'HTML',
-      description: 'Fugiat veniam esse consequat quis cillum elit consequat Lorem pariatur ipsum veniam irure incididunt non.'
+      name: 'React',
+      description: 'i use react framework for my Frontend projects.'
     },
     {
-      name: 'CSS',
-      description: 'Elit tempor mollit consectetur laborum nostrud qui in.'
+      name: 'Node.js/Express/Passport.js',
+      description: 'i use Node.js/Express/Passport for my backend and for authentication.'
+    },
+    {
+      name: 'CSS/Scss',
+      description: 'i use Css  to style my frontend  web apps.'
     }
   ],
   works: [
-    {
-      name: 'Vue Stripe Checkout',
-      link: 'https://jofftiquez.github.io/vue-stripe-checkout',
-      description: 'Mollit dolor tempor adipisicing non pariatur in tempor cillum do. In officia ullamco laborum ullamco voluptate. Laboris sunt quis enim Lorem laboris aliquip duis non magna excepteur voluptate. Pariatur velit aliquip officia nulla anim reprehenderit deserunt. Sint nostrud ipsum do aliquip.'
-    },
     {
       name: 'ToDo App',
       link: 'https://theuselessweb.com/',
@@ -35,34 +36,29 @@ window.PorfolioConfig = {
   ],
   hobbies: [
     {
-      name: 'Rock Climbing',
-      description: 'Occaecat ipsum dolor ea ad ut irure do proident excepteur consectetur duis eu culpa velit.'
+      name: 'CTF - Capture the flag challenges',
+      description: ' Sometimes i hop in to solve some CTF challenges to enhance my critical thinking skills and comandline skills.'
     },
     {
-      name: 'Surfing',
-      description: 'Laboris occaecat adipisicing culpa duis aute ea excepteur quis eiusmod mollit est pariatur.'
+      name: 'CodeWars and LeetCode Challanges',
+      description: 'I do code challenges to sharpen my problem solving and my coding skills .'
     },
-    {
-      name: 'Rubick\'s Cube',
-      description: 'Laborum pariatur sint labore officia enim occaecat id.'
-    }
   ],
   contacts: {
-    email: 'john.doe@gmail.com',
-    mobileNo: '+639171234567',
-    phoneNo: '+12 345 6789',
+    email: 'nicklemoncito98@gmail.com',
+    mobileNo: '09176376512',
     links: [
       {
         name: 'GitHub',
-        link: 'https://github.com/jofftiquez'
+        link: 'https://github.com/nickaldwin'
       },
       {
-        name: 'Facebook',
-        link: 'https://facebook.com/jofftiquez'
+        name: 'Linkedin',
+        link: 'https://www.linkedin.com/in/bitlynicklemoncito'
       },
       {
         name: 'Twitter',
-        link: 'https://twitter.com/jrtiquez'
+        link: 'https://twitter.com/nicklemoncito'
       }
     ]
   }
