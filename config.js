@@ -1,7 +1,8 @@
 window.PorfolioConfig = {
   name: 'Nick Aldwin',
   jobTitle: 'Full-stack Web Developer',
-  jobDescription: '.',
+  jobDescription: 'My name is Nick Aldwin D Lemoncito. I’m from Philippines, passionate about creating community within the tech space, And a passionate software engineer who will do whatever it takes to find an answer.
+Get in touch to find the next answer together!',
   skills: [
     {
       name: 'MongoDb',
@@ -12,8 +13,8 @@ window.PorfolioConfig = {
       description: 'i use react framework for my Frontend projects.'
     },
     {
-      name: 'Node.js/Express',
-      description: 'i use Node.js/Express for my backend.'
+      name: 'Node.js/Express/passport.js',
+      description: 'i use Node.js/Express/passport.js for my backend.'
     },
     {
       name: 'CSS/Scss',
@@ -22,14 +23,9 @@ window.PorfolioConfig = {
   ],
   works: [
     {
-      name: 'ToDo App',
-      link: 'https://theuselessweb.com/',
-      description: 'A basic todo app.'
-    },
-    {
-      name: 'A Mobile Game',
-      link: 'https://theuselessweb.com/',
-      description: 'A simple mobile game.'
+      name: 'Clothing Line Website',
+      link: 'https://cloting-line.netlify.app',
+      description: 'A Basic Cloting line website.'
     }
   ],
   hobbies: [
