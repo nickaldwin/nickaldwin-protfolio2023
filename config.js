@@ -1,11 +1,11 @@
 window.PorfolioConfig = {
   name: 'Nick Aldwin',
   jobTitle: 'Full-stack Web Developer',
-  jobDescription: 'It is my privilege to offer a chance to be seen on the web to small businesses and individuals around me. Whether that be creating a website for you from the ground up, or updating an existing presence for the mobile age. Providing a place for interested parties to find and learn about what you offer is what I offer. How can I help you today.',
+  jobDescription: '.',
   skills: [
     {
       name: 'MongoDb',
-      description: 'i use mongodb for storing / collecting objects to the database.'
+      description: 'i use mongodb for storing/collecting users cred objects to the database and authentications.'
     },
     {
       name: 'React',
@@ -16,8 +16,8 @@ window.PorfolioConfig = {
       description: 'i use Node.js/Express for my backend.'
     },
     {
-      name: 'CSS/Scass',
-      description: 'i use Css to style my front end  webaps.'
+      name: 'CSS/Scss',
+      description: 'i use Css/Scss to style my front end  webaps.'
     }
   ],
   works: [
@@ -35,7 +35,7 @@ window.PorfolioConfig = {
   hobbies: [
     {
       name: 'CTF - Capture the flag challenges',
-      description: '.'
+      description: 'Sometimes i hop in to CTF challanges like overTheWire hackthebox to enhance my critical thinking skills and aslo commandline skills.'
     },
     {
       name: 'CodeWars and LeetCode Challanges',
