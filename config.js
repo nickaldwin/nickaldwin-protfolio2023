@@ -1,7 +1,7 @@
 window.PorfolioConfig = {
   name: 'Nick Aldwin',
   jobTitle: 'Full-stack Web Developer',
-  jobDescription: 'Sit quis in tempor quis. Nisi ex exercitation in irure. Reprehenderit sint aliqua et dolore enim laboris dolore exercitation magna aliqua ex ad.',
+  jobDescription: 'It is my privilege to offer a chance to be seen on the web to small businesses and individuals around me. Whether that be creating a website for you from the ground up, or updating an existing presence for the mobile age. Providing a place for interested parties to find and learn about what you offer is what I offer. How can I help you today.',
   skills: [
     {
       name: 'MongoDb',
@@ -24,12 +24,12 @@ window.PorfolioConfig = {
     {
       name: 'ToDo App',
       link: 'https://theuselessweb.com/',
-      description: 'Esse magna anim incididunt enim sint aute consectetur ipsum id nostrud eu do. Pariatur et anim enim aliquip anim. Laboris labore incididunt labore enim nisi elit excepteur deserunt irure exercitation exercitation. Lorem sit ad laborum sit velit veniam sit nisi nostrud occaecat duis nulla duis.'
+      description: 'A basic todo app.'
     },
     {
       name: 'A Mobile Game',
       link: 'https://theuselessweb.com/',
-      description: 'Incididunt non cupidatat deserunt ut commodo qui non do Lorem. Qui aute minim enim sit magna est consectetur incididunt. Ex est cupidatat tempor pariatur deserunt labore tempor minim laboris magna ipsum minim ea ea. Consectetur do anim laboris nulla nisi veniam sint qui.'
+      description: 'A simple mobile game.'
     }
   ],
   hobbies: [
